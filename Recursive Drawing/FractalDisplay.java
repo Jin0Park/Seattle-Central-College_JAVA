@@ -69,7 +69,7 @@ public class FractalDisplay extends JPanel implements MouseListener, ActionListe
 	private JPopupMenu popup;
 	private JLabel popupLabel;
 
-	/**
+	/**b
 	 * Constructs a FractalDisplay to display fractal shapes
 	 */
 	public FractalDisplay() {
