@@ -27,17 +27,11 @@ import javax.swing.UIManager;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-/**
- * Construct a window to display the fractal shapes. This class is almost
- * complete. Add your own code only in the places marked with the comment TODO
- * 
- */
 
 public class FractalDisplay extends JPanel implements MouseListener, ActionListener, ChangeListener {
 
 	// Width of the inner panel
 	public static final int WIDTH = 800;
-
 	// Height of the inner panel
 	public static final int HEIGHT = 800;
 
